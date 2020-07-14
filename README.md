@@ -12,6 +12,8 @@ You must fork this repo to enter the competition, and use the same license in th
 
 [IB Client Portal](IB-CLIENT-PORTAL.md)
 
+[Capybara Cheat Sheet](https://gist.github.com/zhengjia/428105)
+
 ## Overview
 
 The target is to paper-trade on interactive brokers, to make the most money possible before the competition ends.
