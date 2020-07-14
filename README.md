@@ -12,6 +12,8 @@ You must fork this repo to enter the competition, and use the same license in th
 
 [IB Client Portal](IB-CLIENT-PORTAL.md)
 
+[Investopedia Automation](INVESTOPEDIA.md)
+
 [Capybara Cheat Sheet](https://gist.github.com/zhengjia/428105)
 
 ## Overview
@@ -83,3 +85,9 @@ You might also want to develop a pure Forex strategy and use this data-set for t
 There are a couple of ideas for coding an IB Bot, one written in Vue/JS, another written in Ruby.
 
 Our focus has largely been on US Stocks, but there is nothing stopping you exploring other markets or opportunities either.
+
+### Investopedia
+
+Unfortuneately we could not get the Interactive Broker paper trading working, so we have switched to the Investopedia Paper Trading platform.
+
+It does not have an API, but we have written a basic chromedriver application that can execute trades unsupervised by screen-scraping the investopedia website and filling out the forms there.
