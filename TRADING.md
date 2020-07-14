@@ -10,6 +10,10 @@ Some basic trading tips are described here for your information.  You are encour
 
 [IB Client Portal](IB-CLIENT-PORTAL.md)
 
+[Investopedia Automation](INVESTOPEDIA.md)
+
+[Capybara Cheat Sheet](https://gist.github.com/zhengjia/428105)
+
 ## Basic Market Theory
 
 This repo contains 5 basic strategies.  The ultimate aim of the game is to buy low, sell high.  To do this you will most likely need to purchase some kind of financial security that is likely to go up in value in the near future.

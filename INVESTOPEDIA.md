@@ -10,8 +10,6 @@ Some basic information about how to automate trading on Investopedia.
 
 [Trading Tips](TRADING.md)
 
-[Investopedia Automation](INVESTOPEDIA.md)
-
 [Capybara Cheat Sheet](https://gist.github.com/zhengjia/428105)
 
 ## Overview

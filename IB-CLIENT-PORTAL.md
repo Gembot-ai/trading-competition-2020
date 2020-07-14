@@ -10,6 +10,10 @@ Some basic information about how to use the IB Client Portal.
 
 [Trading Tips](TRADING.md)
 
+[Investopedia Automation](INVESTOPEDIA.md)
+
+[Capybara Cheat Sheet](https://gist.github.com/zhengjia/428105)
+
 ## Overview
 
 Interactive Broker has various options for connecting to their API, none of which are particularly pretty.  It seems like the Client-Portal is the easiest to use.  It is essentially a standard HTTP REST API.
